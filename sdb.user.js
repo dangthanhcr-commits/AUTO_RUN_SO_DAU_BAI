@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Tự động Sổ Ghi Đầu Bài & Lịch Báo Giảng (7.6)
+// @name         Auto sdb
 // @namespace    http://tampermonkey.net/
 // @version      7.6.5
 // @description  Hỗ trợ Sổ đầu bài và Lịch báo giảng.
