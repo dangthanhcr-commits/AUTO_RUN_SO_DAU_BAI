@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tự động Sổ Ghi Đầu Bài & Lịch Báo Giảng (7.6)
 // @namespace    http://tampermonkey.net/
-// @version      7.6.3
+// @version      7.6.4
 // @description  Hỗ trợ Sổ đầu bài và Lịch báo giảng.
 // @author       Đăng Thành
 // @match        *://*.khanhhoa.edu.vn/*
