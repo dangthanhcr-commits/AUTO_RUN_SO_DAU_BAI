@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Tự động Sổ Ghi Đầu Bài & Lịch Báo Giảng (7.6.3 - rút gọn)
+// @name         Tự động Sổ Ghi Đầu Bài & Lịch Báo Giảng (7.6)
 // @namespace    http://tampermonkey.net/
 // @version      7.6.3
-// @description  Nút Auto thu gọn, kéo thả và nhớ vị trí; hỗ trợ Sổ đầu bài và Lịch báo giảng.
-// @author       Võ Hoàng Thiên Ân; hiệu chỉnh theo yêu cầu của Võ Đăng Thành
+// @description  Hỗ trợ Sổ đầu bài và Lịch báo giảng.
+// @author       Đăng Thành
 // @match        *://*.khanhhoa.edu.vn/*
 // @grant        GM_getValue
 // @grant        GM_setValue
@@ -20,7 +20,7 @@
 
     const VERSION = '7.6.3';
     const EXPIRATION_DATE = '2027-07-01';
-    const ADMIN_PASSWORD = '5/V.C)^ZNnuVc#3#v3d:pI-55m$([+a>k';
+    const ADMIN_PASSWORD = 'tb@123';
     const PANEL_ID = 'sdb-helper-70'; // giữ nguyên ID để phát hiện bản cũ
     const body = () => document.body || document.documentElement;
 
