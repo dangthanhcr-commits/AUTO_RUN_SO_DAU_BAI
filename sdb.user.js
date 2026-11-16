@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto sdb
 // @namespace    http://tampermonkey.net/
-// @version      7.6.2
+// @version      7.6.3
 // @description  Hỗ trợ Sổ đầu bài và Lịch báo giảng.
 // @author       Đăng Thành
 // @match        *://*.khanhhoa.edu.vn/*
