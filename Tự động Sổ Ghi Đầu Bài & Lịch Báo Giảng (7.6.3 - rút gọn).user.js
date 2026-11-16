@@ -10,6 +10,8 @@
 // @grant        unsafeWindow
 // @grant        GM_registerMenuCommand
 // @run-at       document-idle
+// @updateURL    https://raw.githubusercontent.com/TENBAN/sdb/main/sdb.user.js
+// @downloadURL  https://raw.githubusercontent.com/TENBAN/sdb/main/sdb.user.js
 // ==/UserScript==
 
 /* eslint-disable */
